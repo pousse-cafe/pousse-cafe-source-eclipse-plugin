@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Pousse-Café Source Plug-in
 Bundle-SymbolicName: poussecafe.source.eclipse.plugin
-Bundle-Version: 0.28.0.202103021105
-Bundle-ClassPath: pousse-cafe-source-0.28.0-SNAPSHOT.jar
+Bundle-Version: 0.28.1.202103031156
+Bundle-ClassPath: pousse-cafe-source-0.28.1.jar
 Export-Package: poussecafe.source,
  poussecafe.source.analysis,
  poussecafe.source.emil,
