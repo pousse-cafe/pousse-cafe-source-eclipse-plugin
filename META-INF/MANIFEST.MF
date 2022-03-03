@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Pousse-Café Source Plug-in
 Bundle-SymbolicName: poussecafe.source.eclipse.plugin
-Bundle-Version: 0.28.1.202103031156
-Bundle-ClassPath: pousse-cafe-source-0.28.1.jar
+Bundle-Version: 0.29.0.202203032208
+Bundle-ClassPath: pousse-cafe-source-0.29.0-SNAPSHOT.jar
 Export-Package: poussecafe.source,
  poussecafe.source.analysis,
  poussecafe.source.emil,
@@ -26,10 +26,9 @@ Bundle-RequiredExecutionEnvironment: JavaSE-11
 Automatic-Module-Name: pousseCafeSourceEclipsePlugin
 Require-Bundle: org.eclipse.jdt.core;bundle-version="3.23.0",
  org.slf4j.api;bundle-version="1.7.30",
- poussecafe.core.eclipse.plugin;bundle-version="0.28.0",
  pousse-cafe-antlr4-runtime-eclipse-plugin;bundle-version="4.8.0",
  org.apache.commons.lang3;bundle-version="3.1.0",
  org.eclipse.jface.text;bundle-version="3.16.500",
  poussecafe.base.eclipse.plugin;bundle-version="0.26.0",
  org.eclipse.equinox.preferences;bundle-version="3.8.100",
- poussecafe.attribute.eclipse.plugin;bundle-version="0.26.0"
+ poussecafe.core.eclipse.plugin;bundle-version="0.29.0"
